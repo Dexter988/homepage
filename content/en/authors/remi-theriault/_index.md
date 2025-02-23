@@ -59,7 +59,7 @@ social:
   #  icon_pack: fab
   #  link: https://twitter.com/rempsyc
   - icon: orcid
-    icon_pack: brands
+    icon_pack: ai
     link: https://orcid.org/0009-0006-2289-7543
   # - icon: academia
   #   icon_pack: ai
@@ -68,7 +68,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=eCMiP-sAAAAJ
   - icon: github
-    icon_pack: brands
+    icon_pack: fas
     link: https://github.com/
   #  icon_pack: fas
   #  link: https://www.paypal.com/paypalme/rempsyc
