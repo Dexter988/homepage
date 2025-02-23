@@ -12,7 +12,7 @@ authors:
 - Haoyu Wang
 
 publication_types:
-- "2"
+- "1"
 
 # Show publication and sharing statistics? (requires valid doi)
 add_badge: true
