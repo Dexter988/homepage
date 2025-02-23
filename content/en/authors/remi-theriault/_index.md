@@ -68,9 +68,9 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=eCMiP-sAAAAJ
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: https://github.com/
-  #  icon_pack: fas
+  #  icon_pack: fab
   #  link: https://www.paypal.com/paypalme/rempsyc
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
