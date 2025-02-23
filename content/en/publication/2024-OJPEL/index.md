@@ -29,8 +29,8 @@ doi: " 10.1109/OJPEL.2023.3340220"
 external_link:
 
 links: 
- - name: Preprint
-   url: "https://doi.org/10.31219/osf.io/q4fjy"
+ - name: PDF
+   url: "https://ieeexplore.ieee.org/document/10347356"
 
 abstract: "With the advancements in power semiconductors and converters, power electronics based high-voltage pulse generators (HVPG) have emerged due to their advantages of high repetition rate, flexible control, long lifetime, and compact size. However, there is a lack of comprehensive literature review on recent advances in power electronics intensive HVPG technologies. To fill this gap, we present a systematic review on HVPGs. First, HVPGs are classified into different types based on their mechanisms. Each type along with its basic circuits and modifications are introduced. Then, the characteristics, advantages, and disadvantages of these topologies are summarized. Furthermore, the potential applications of HVPGs are explored. The performance of pulse generators mentioned in the literature and commercial products is listed. Finally, future trends and technical challenges in HVPG design and development are discussed. This paper provides a clear understanding of HVPGs and the inspiration of topologies developments to meet the specific requirements. Current state and potential future directions are discussed and summarized to facilitate evolvements in HVPG technology."
 
