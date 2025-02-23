@@ -77,7 +77,6 @@ social:
 email: ""
 
 ---
+Yingjian Zhuge received the B.S. degree in electrical engineering and its automation from Zhejiang University, Hangzhou, China, in 2021. He is currently working toward the Ph.D. degree in Electronics Science and Technology with the School of Information Science and Technology, ShanghaiTech University, Shanghai, China.
 
-Rémi Thériault obtained his BA Psychology and MSc Psychiatry from McGill University, Montréal, Québec. His undergraduate research has principally focused on exploring the mind-body connection through the placebo effect and the malleability of the sense of embodiment. His Master’s research focused on psychological strategies to increase empathy and reduce intergroup prejudice, such as taking others’ perspective using virtual reality technology. His current doctoral research at UQAM explores ways to boost altruism and reduce aggression through loving-kindness meditation. Overall, Rémi is passionate about putting social-psychological research to use to increase people’s well-being and intrinsic motivation to help one another.
-
-Four themes from the Vipassanā contemplative tradition generally shape or influence his research interests: morality (sīla), mindfulness (samādhi), wisdom (paññā), and loving-kindness (mettā).
+His research interests include pulsed power technology, high-voltage pulse generators, and diagnosis technologies in PJMIF device.
