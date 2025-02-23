@@ -20,7 +20,7 @@ design:
 
 <div class="flex-container">
   <div class="flex-item">
-      <h1 style="font-size: calc(100% + 4.5vw)"> Yingjian Zhuge, Ph. D. candidate </h1>
-      <p style="font-size: calc(100% + 0.5vw)"> Believe in yourself and keep moving forward. </p>
+      <h1 style="font-size: calc(100% + 4.5vw)"> Yingjian Zhuge </h1>
+      <p style="font-size: calc(100% + 0.15vw)"> Believe in yourself and keep moving forward. </p>
   </div>
 </div>
