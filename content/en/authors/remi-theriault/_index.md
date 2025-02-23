@@ -77,6 +77,6 @@ social:
 email: ""
 
 ---
-Yingjian Zhuge received the B.S. degree in electrical engineering and its automation from Zhejiang University, Hangzhou, China, in 2021. He is currently working toward the Ph.D. degree in Electronics Science and Technology with the School of Information Science and Technology, ShanghaiTech University, Shanghai, China.
+Yingjian Zhuge received the B.S. degree in electrical engineering and its automation from Zhejiang University, Hangzhou, China, in 2021. He is currently a Ph.D. candidate of power electronics at [Power Electronics And Renewable energies Laboratory (PEARL)](https://pearl.shanghaitech.edu.cn/), Shanghaitech University. His research supervisor is [Prof. Haoyu Wang](https://pearl.shanghaitech.edu.cn/people.html). 
 
 His research interests include pulsed power technology, high-voltage pulse generators, and diagnosis technologies in PJMIF device.
