@@ -17,8 +17,8 @@ subtitle = ""
 # Pick from the choices available here: https://fontawesome.com/v4/icons/
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+  icon = "language"
+  icon_pack = "fas"
   name = "Language"
   description = "CET-6, good technical writing and reading skills, fluent in speaking."
   
@@ -35,10 +35,22 @@ subtitle = ""
   description = "data acquisition system, PLC"  
 
 [[feature]]
-  icon = "osf"
-  icon_pack = "ai"
+  icon = "plug"
+  icon_pack = "fas"
   name = "Equipment"
   description = "Oscilloscope, Electronic Source/Load, Impedance Analyzer, Power Devices Analyzer, Power Analyzer, "
+
+[[feature]]
+  icon = "handshake-simple"
+  icon_pack = "fas"
+  name = "Collaboration"
+  description = "Project management, interdisciplinary coordination"  
+
+[[feature]]
+  icon = "bolt"
+  icon_pack = "fas"
+  name = "Validation"
+  description = "Experimental testing, fault diagnostics, data-driven verification "  
 
 # Uncomment to use emoji icons.
 # [[feature]]
