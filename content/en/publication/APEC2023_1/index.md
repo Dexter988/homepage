@@ -2,7 +2,7 @@
 title: "Overview of Machine Learning-Enabled Battery State Estimation Methods"
 
 # Publication name and optional abbreviated publication name.
-publication: "*2023 IEEE Applied Power Electronics Conference and Exposition (APEC)*, Orlando, FL, USA, 2023, pp. 3028-3035, <a href='https://doi.org/10.1109/apec43580.2023.10131605' target='_blank' rel='noopener noreferrer'>10.1109/apec43580.2023.10131605</a>"
+publication: "*2023 IEEE Applied Power Electronics Conference and Exposition (APEC)*, Orlando, FL, USA, 2023, pp. 3028-3035, <a href='https://doi.org/10.1109/apec43580.2023.10131605' target='_blank' rel='noopener noreferrer'>doi.org/10.1109/apec43580.2023.10131605</a>"
 
 #publication_short: 
 
