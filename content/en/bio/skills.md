@@ -23,16 +23,16 @@ subtitle = ""
   description = "CET-6, good technical writing and reading skills, fluent in speaking."
   
 [[feature]]
-  icon = "chart-line"
+  icon = "code"
   icon_pack = "fas"
   name = "Software"
-  description = "Ansys Maxwell, Altium Designer, PSIM, Matlab/Simulink, LTspice, Visio, PLC, Solidworks"  
+  description = "Ansys Maxwell, Altium Designer, PSIM, Matlab/Simulink, LTspice, Visio, Solidworks"  
 
 [[feature]]
-  icon = "chart-line"
+  icon = "microchip"
   icon_pack = "fas"
   name = "Hardware"
-  description = ""  
+  description = "data acquisition system, PLC"  
 
 [[feature]]
   icon = "osf"
