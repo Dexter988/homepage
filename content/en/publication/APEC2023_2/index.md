@@ -2,7 +2,7 @@
 title: "Avalanche Transistor-Based Nanosecond Pulse Generator in Plasma-Jet-Driven Magneto-Inertial Fusion Systems"
 
 # Publication name and optional abbreviated publication name.
-publication: "*2023 IEEE Applied Power Electronics Conference and Exposition (APEC)*, , Orlando, FL, USA, 2023, pp. 3227-3232. <a href='https://doi.org/10.1007/s41042-024-00198-7' target='_blank' rel='noopener noreferrer'>doi.org/10.1007/s41042-024-00198-7</a>"
+publication: "*2023 IEEE Applied Power Electronics Conference and Exposition (APEC)*, , Orlando, FL, USA, 2023, pp. 3227-3232. <a href='https://doi.org/10.1109/apec43580.2023.10131493' target='_blank' rel='noopener noreferrer'>doi.org/10.1109/APEC43580.2023.10131493</a>"
 
 #publication_short: 
 
