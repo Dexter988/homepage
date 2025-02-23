@@ -97,10 +97,10 @@ address = {street = "1393 Huaxia Middle Rd", city = "Pudong New Area", region = 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.510838", longitude = "-73.569965"}
+coordinates = {latitude = "31.178235068851926", longitude = "121.5954115347913"}
 
 # Directions for visitors to locate you.
-directions = "Office 503 (5th floor), SIST Bldg. Take the elevator to the 4th floor, turn left, left again, my office will be to your right."
+directions = "Office 503 (5th floor), SIST Bldg."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
