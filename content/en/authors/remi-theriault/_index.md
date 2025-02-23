@@ -51,25 +51,25 @@ social:
     link: mailto:zhugeyj@shanghaitech.edu.cn
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com
   # - icon: retweet
   # icon_pack: fas
   # link: https://bsky.app/profile/remi-theriault.com
   # - icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/rempsyc
-   - icon: researchgate
-     icon_pack: ai
-     link: https://orcid.org/0009-0006-2289-7543
+  - icon: researchgate
+    icon_pack: ai
+    link: https://orcid.org/0009-0006-2289-7543
   # - icon: academia
   #   icon_pack: ai
   #   link: https://uqam.academia.edu/RemiTheriault
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=eCMiP-sAAAAJ
-   - icon: github
-     icon_pack: fab
-     link: https://github.com/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/
   #  icon_pack: fas
   #  link: https://www.paypal.com/paypalme/rempsyc
 
