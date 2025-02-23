@@ -41,7 +41,7 @@ subtitle = ""
   description = "Oscilloscope, Electronic Source/Load, Impedance Analyzer, Power Devices Analyzer, Power Analyzer, "
 
 [[feature]]
-  icon = "handshake-simple"
+  icon = "handshake"
   icon_pack = "fas"
   name = "Collaboration"
   description = "Project management, interdisciplinary coordination"  
