@@ -19,20 +19,26 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = ""
+  name = "Language"
+  description = "CET-6, good technical writing and reading skills, fluent in speaking."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Software"
+  description = "Ansys Maxwell, Altium Designer, PSIM, Matlab/Simulink, LTspice, Visio, PLC, Solidworks"  
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Hardware"
   description = ""  
-  
+
 [[feature]]
   icon = "osf"
   icon_pack = "ai"
-  name = "Open Science"
-  description = ""
+  name = "Equipment"
+  description = "Oscilloscope, Electronic Source/Load, Impedance Analyzer, Power Devices Analyzer, Power Analyzer, "
 
 # Uncomment to use emoji icons.
 # [[feature]]
