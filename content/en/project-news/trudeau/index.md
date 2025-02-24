@@ -6,7 +6,7 @@ tags:
 date: "2021-03-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.trudeaufoundation.ca/updates/news/path-engaged-leadership-starts-here"
+external_link: ""
 
 image:
   caption: ""
@@ -30,4 +30,3 @@ url_video: ""
 slides: example
 ---
 
-Finalist for the Pierre Elliott Trudeau Foundation Scholarship. The Foundation carefully selected 36 finalists out of 102 semi-finalists and 643 applications from across Canada.
