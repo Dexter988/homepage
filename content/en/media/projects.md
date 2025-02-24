@@ -26,16 +26,12 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Press"
-     tag = "Press"
+     name = "Poster"
+     tag = "Poster"
   
    [[content.filter_button]]
-     name = "Video"
-     tag = "Video"
-  
-   [[content.filter_button]]
-     name = "Radio"
-     tag = "Radio"
+     name = "Oral"
+     tag = "Oral"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
