@@ -1,12 +1,12 @@
 ---
-title: Forces Avenir Collégial
+title: APEC2023-Overview of Machine Learning-Enabled Battery State Estimation Methods
 summary: ""
 tags:
-- Video
-date: "2012-00-00T00:33:00Z"
+- Poster
+date: "2023-03-19T00:33:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://youtu.be/FkVA-qHKm_g"
+external_link: ""
 
 image:
   caption: ""
