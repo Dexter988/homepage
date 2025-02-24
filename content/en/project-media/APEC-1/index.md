@@ -29,5 +29,3 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-
-Finalist for the 2012 Collegial Forces Avenir competition.
