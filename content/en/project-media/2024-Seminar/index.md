@@ -1,5 +1,5 @@
 ---
-title: Power Electronics Intensive Solutions for High-Voltage Pulse Generators in PJMIF System
+title: Student Seminar-Power Electronics Intensive Solutions for High-Voltage Pulse Generators in PJMIF System
 summary: ""
 tags:
 - Oral
