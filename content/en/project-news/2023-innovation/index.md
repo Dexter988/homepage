@@ -3,7 +3,7 @@ title:  Excellent Popular Sci. Popularization Award, The 6th Innov. & Entr. Summ
 summary: ""
 tags:
 - Honours
-date: "2022-12-09T00:00:00Z"
+date: "2023-12-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
