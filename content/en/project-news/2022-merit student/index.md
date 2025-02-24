@@ -1,9 +1,9 @@
 ---
-title: Pierre Elliott Trudeau Finalist
+title: Merit Student (2022-2023)
 summary: ""
 tags:
 - Honours
-date: "2021-03-09T00:00:00Z"
+date: "2023-12-09T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
