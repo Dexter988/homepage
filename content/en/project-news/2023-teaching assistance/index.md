@@ -30,7 +30,3 @@ url_video: ""
 slides: example
 ---
 
-Prepare, grade, and guide homework;
-Software guidance and homework tips in tutorial class;
-Communicate with students to solve their problems, and help them to improve;
-Update and maintain course website
